@@ -39,13 +39,6 @@ nav {
     height: 400px;*/
 }
 
-.img-logo {
-  width: 200px;
-  height: 200px;
-  background-image: url("../images/logo1.png");
-  background-size: cover;
-}
-
 h2 {
   display: block;
   position: absolute;
@@ -55,3 +48,24 @@ h2 {
   background-color: black;
   color: white;
 }
+
+.img-logo {
+  display: block;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 280px;
+  right: 10%;
+  z-index: 1;
+  background-color: white;
+  border-color: black;
+  border-width: 2px;
+  border-style: double;
+}
+
+aside.img-logo img {
+  width: 100x;
+  height: 100px;
+  padding-left: 2px;
+}
+
