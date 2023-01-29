@@ -3,16 +3,15 @@
 
 body,
 h6,
-figure {
+figure,
+a {
   padding: 0px;
   margin: 0px;
   border: 0px;
   display: block;
 }
 
-h2,
-h3,
-p {
+body {
   font-family: Roboto, Arial, Helvetica, sans-serif;
 }
 
@@ -34,7 +33,7 @@ h6 {
 
 nav {
   font-family: Roboto, Arial, Helvetica, sans-serif;
-   display: inline-block;
+  display: inline-block;
 }
 
 h2 {
@@ -67,6 +66,8 @@ aside.img-logo img {
 
 section {
   display: inline-block;
+  width: 40%;
+  height: 10px;
 }
 
 article {
@@ -75,3 +76,8 @@ article {
   top: -300px;
   left: 200px;
 }
+
+/* article p {
+  width: 50%;
+}
+ */
