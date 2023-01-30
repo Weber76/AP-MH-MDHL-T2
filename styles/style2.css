@@ -36,7 +36,7 @@ body {
 
 .grupo-nav {
   position: absolute;
-  top: 50px;
+  top: 95px;
   right: 5%;
 }
 
@@ -88,9 +88,10 @@ body {
   display: block;
   position: absolute;
   width: 100%;
-  top: 348px;
+  top: 390px;
   text-align: center;
-  border: 2px solid;}
+  border: 2px solid;
+}
 
 .articulo {
   display: inline;
