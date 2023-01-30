@@ -41,7 +41,7 @@ body {
 }
 
 .link-nav a,
-.link-nav p {
+.visitando {
   display: inline-block;
   width: 50px;
   padding: 4px 14px;
@@ -53,7 +53,7 @@ body {
   box-shadow: 3px 3px gray;
 }
 
-.link-nav p {
+.visitando {
   background-color: green;
 }
 
