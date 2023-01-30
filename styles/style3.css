@@ -50,7 +50,7 @@ body {
 }
 
 .link-nav a,
-.link-nav p {
+.visitando {
   display: inline-block;
   width: 28%;
   padding: 4px 14px;
@@ -61,7 +61,7 @@ body {
   text-align: center;
 }
 
-.link-nav p {
+.visitando {
   background-color: gray;
   box-shadow: 0px 0px 0px 5px rgb(240, 230, 0);
 }
@@ -82,7 +82,7 @@ body {
 }
 
 .img-logo {
-  width: 100x;
+  width: 100px;
   height: 100px;
   padding-left: 2px;
 }
